@@ -1,0 +1,513 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string-array name="kelimeler">
+        <item>accept</item>
+        <item>achieve</item>
+        <item>act</item>
+        <item>add</item>
+        <item>admit</item>
+        <item>affect</item>
+        <item>afford</item>
+        <item>agree</item>
+        <item>aim</item>
+        <item>allow</item>
+        <item>answer</item>
+        <item>appear</item>
+        <item>apply</item>
+        <item>argue</item>
+        <item>arrange</item>
+        <item>arrive</item>
+        <item>ask</item>
+        <item>attack</item>
+        <item>avoid</item>
+        <item>be</item>
+        <item>beat</item>
+        <item>become</item>
+        <item>begin</item>
+        <item>believe</item>
+        <item>bend</item>
+        <item>bet</item>
+        <item>bid</item>
+        <item>bite</item>
+        <item>bleed</item>
+        <item>blow</item>
+        <item>break</item>
+        <item>bring</item>
+        <item>build</item>
+        <item>burn</item>
+        <item>breed</item>
+        <item>burst</item>
+        <item>buy</item>
+        <item>call</item>
+        <item>catch</item>
+        <item>choose</item>
+        <item>come</item>
+        <item>cost</item>
+        <item>creep</item>
+        <item>cut</item>
+        <item>damage</item>
+        <item>dance</item>
+        <item>deal</item>
+        <item>decide</item>
+        <item>deliver</item>
+        <item>demand</item>
+        <item>deny</item>
+        <item>depend</item>
+        <item>describe</item>
+        <item>design</item>
+        <item>destroy</item>
+        <item>develop</item>
+        <item>die</item>
+        <item>dig</item>
+        <item>do</item>
+        <item>draw</item>
+        <item>dream</item>
+        <item>drink</item>
+        <item>drive</item>
+        <item>eat</item>
+        <item>end</item>
+        <item>enjoy</item>
+        <item>examine</item>
+        <item>exist</item>
+        <item>expect</item>
+        <item>experience</item>
+        <item>explain</item>
+        <item>express</item>
+        <item>fall</item>
+        <item>feed</item>
+        <item>feel</item>
+        <item>fight</item>
+        <item>find</item>
+        <item>fly</item>
+        <item>fold</item>
+        <item>follow</item>
+        <item>force</item>
+        <item>forbid</item>
+        <item>forget</item>
+        <item>forgive</item>
+        <item>freeze</item>
+        <item>get</item>
+        <item>give</item>
+        <item>go</item>
+        <item>grow</item>
+        <item>hang</item>
+        <item>have</item>
+        <item>hear</item>
+        <item>help</item>
+        <item>hide</item>
+        <item>hit</item>
+        <item>hold</item>
+        <item>hurt</item>
+        <item>keep</item>
+        <item>know</item>
+        <item>lay</item>
+        <item>lead</item>
+        <item>lean</item>
+        <item>leave</item>
+        <item>lend</item>
+        <item>let</item>
+        <item>lie</item>
+        <item>like</item>
+        <item>live</item>
+        <item>look</item>
+        <item>lose</item>
+        <item>make</item>
+        <item>manage</item>
+        <item>mark</item>
+        <item>matter</item>
+        <item>may</item>
+        <item>mean</item>
+        <item>meet</item>
+        <item>mention</item>
+        <item>mind</item>
+        <item>miss</item>
+        <item>move</item>
+        <item>need</item>
+        <item>notice</item>
+        <item>obtain</item>
+        <item>occur</item>
+        <item>offer</item>
+        <item>open</item>
+        <item>order</item>
+        <item>own</item>
+        <item>pass</item>
+        <item>pay</item>
+        <item>perform</item>
+        <item>pick</item>
+        <item>place</item>
+        <item>plan</item>
+        <item>play</item>
+        <item>put</item>
+        <item>quit</item>
+        <item>reach</item>
+        <item>read</item>
+        <item>realize</item>
+        <item>receive</item>
+        <item>recognize</item>
+        <item>record</item>
+        <item>reduce</item>
+        <item>reflect</item>
+        <item>refuse</item>
+        <item>regard</item>
+        <item>release</item>
+        <item>remain</item>
+        <item>remember</item>
+        <item>remove</item>
+        <item>repeat</item>
+        <item>replace</item>
+        <item>reply</item>
+        <item>report</item>
+        <item>represent</item>
+        <item>require</item>
+        <item>rest</item>
+        <item>return</item>
+        <item>reveal</item>
+        <item>ring</item>
+        <item>rise</item>
+        <item>roll</item>
+        <item>run</item>
+        <item>say</item>
+        <item>see</item>
+        <item>seem</item>
+        <item>sell</item>
+        <item>send</item>
+        <item>set</item>
+        <item>settle</item>
+        <item>shake</item>
+        <item>shine</item>
+        <item>shoe</item>
+        <item>shoot</item>
+        <item>show</item>
+        <item>shrink</item>
+        <item>shut</item>
+        <item>sing</item>
+        <item>sink</item>
+        <item>sit</item>
+        <item>ski</item>
+        <item>slap</item>
+        <item>slay</item>
+        <item>slice</item>
+        <item>slide</item>
+        <item>slip</item>
+        <item>sleep</item>
+        <item>speak</item>
+        <item>spend</item>
+        <item>spill</item>
+        <item>spread</item>
+        <item>stand</item>
+        <item>start</item>
+        <item>steal</item>
+        <item>stick</item>
+        <item>sting</item>
+        <item>stink</item>
+        <item>swear</item>
+        <item>sweep</item>
+        <item>swim</item>
+        <item>swing</item>
+        <item>take</item>
+        <item>talk</item>
+        <item>teach</item>
+        <item>tear</item>
+        <item>tell</item>
+        <item>think</item>
+        <item>throw</item>
+        <item>touch</item>
+        <item>train</item>
+        <item>travel</item>
+        <item>treat</item>
+        <item>try</item>
+        <item>turn</item>
+        <item>understand</item>
+        <item>use</item>
+        <item>visit</item>
+        <item>vote</item>
+        <item>wait</item>
+        <item>walk</item>
+        <item>wake</item>
+        <item>want</item>
+        <item>warn</item>
+        <item>wear</item>
+        <item>win</item>
+        <item>wish</item>
+        <item>work</item>
+        <item>worry</item>
+        <item>write</item>
+
+    </string-array>
+
+    <string-array name="anlamlar">
+        <item>kabul etmek,kabullenmek</item>
+        <item>elde etmek,başarmak</item>
+        <item>davranmak,hareket etmek</item>
+        <item>ilave etmek,eklemek</item>
+        <item>kabul etmek,itiraf etmek</item>
+        <item>etkilemek</item>
+        <item>satın almaya parası yetmemek</item>
+        <item>aynı fikirde olmak,katılmak</item>
+        <item>amaçlamak,hedeflemek</item>
+        <item>izin vermek</item>
+        <item>cevaplamak,yanıtlamak</item>
+        <item>belirmek,görünmek</item>
+        <item>uygulamak,başvurmak</item>
+        <item>tartışmak,çekişmek</item>
+        <item>ayarlamak,düzenlemek</item>
+        <item>varmak,ulaşmak</item>
+        <item>sormak,istemek</item>
+        <item>saldırmak</item>
+        <item>kaçınmak,önlemek</item>
+        <item>olmak</item>
+        <item>yenmek,vurmak</item>
+        <item>olmak,dönüşmek</item>
+        <item>başlamak</item>
+        <item>inanmak</item>
+        <item>eğilmek</item>
+        <item>iddiaya girmek</item>
+        <item>teklif vermek</item>
+        <item>ısırmak</item>
+        <item>kanamak</item>
+        <item>üflemek</item>
+        <item>kırılmak,(kurala)uymamak</item>
+        <item>üretmek, çoğaltmak</item>
+        <item>getirmek</item>
+        <item>inşa etmek,geliştirmek</item>
+        <item>yanmak, yakmak</item>
+        <item>patlamak, fırlamak</item>
+        <item>satın almak</item>
+        <item>aramak</item>
+        <item>yakalamak</item>
+        <item>seçmek</item>
+        <item>gelmek</item>
+        <item>mal olmak</item>
+        <item>ürkütmek</item>
+        <item>kesmek</item>
+        <item>zarar vermek</item>
+        <item>dans etmek</item>
+        <item>uğraşmak,çaresine bakmak</item>
+        <item>karar vermek</item>
+        <item>teslim etmek</item>
+        <item>talep etmek</item>
+        <item>inkar etmek</item>
+        <item>bağlı olmak,itimat etmek</item>
+        <item>tanımlamak,tarif etmek</item>
+        <item>tasarlamak</item>
+        <item>imha etmek,yıkmak</item>
+        <item>geliştirmek</item>
+        <item>ölmek</item>
+        <item>kazımak,eşelemek</item>
+        <item>yapmak</item>
+        <item>çizmek</item>
+        <item>hayal kurmak,rüya görmek</item>
+        <item>içmek</item>
+        <item>(araç)sürmek</item>
+        <item>yemek</item>
+        <item>sona ermek,son vermek</item>
+        <item>zevk almak</item>
+        <item>incelemek,muayene etmek</item>
+        <item>var olmak</item>
+        <item>ümit etmek,beklemek</item>
+        <item>deneyim kazanmak</item>
+        <item>açıklamak,izah etmek</item>
+        <item>ifade etmek,belli etmek</item>
+        <item>düşmek</item>
+        <item>beslemek</item>
+        <item>hissetmek</item>
+        <item>dövmek,dövüşmek</item>
+        <item>bulmak</item>
+        <item>uçmak</item>
+        <item>katlamak</item>
+        <item>takip etmek</item>
+        <item>zorlamak,güç kullanmak</item>
+        <item>yasaklamak</item>
+        <item>unutmak</item>
+        <item>affetmek</item>
+        <item>dondurmak,donmak</item>
+        <item>almak,elde etmek</item>
+        <item>vermek</item>
+        <item>gitmek</item>
+        <item>büyümek</item>
+        <item>asmak</item>
+        <item>sahip olmak</item>
+        <item>duymak</item>
+        <item>yardım etmek</item>
+        <item>saklanmak</item>
+        <item>vurmak,çarpmak</item>
+        <item>tutmak,beklemek</item>
+        <item>acımak,acıtmak</item>
+        <item>tutmak,saklaamak</item>
+        <item>bilmek</item>
+        <item>yatmak,uzanmak</item>
+        <item>yönetmek,liderlik etmek</item>
+        <item>eğilmek,dayanmak</item>
+        <item>terk etmek</item>
+        <item>borç vermek,ödünç vermek</item>
+        <item>izin vermek</item>
+        <item>yalan söylemek,yatmak</item>
+        <item>beğenmek</item>
+        <item>yaşamak</item>
+        <item>bakmak</item>
+        <item>kaybetmek</item>
+        <item>yapmak</item>
+        <item>yönetmek,idare etmek</item>
+        <item>işaretlemek</item>
+        <item>önem taşımak,önemli olmak</item>
+        <item>mümkün kılmak,yapabilmek</item>
+        <item>kastetmek,niyet etmek</item>
+        <item>buluşmak</item>
+        <item>bahsetmek</item>
+        <item>önemsemek,aldırmak</item>
+        <item>kaçırmak,özlemek</item>
+        <item>hareket etmek,taşınmak</item>
+        <item>ihtiyaç duymak</item>
+        <item>fark etmek</item>
+        <item>edinmek,temin etmek</item>
+        <item>belirmek,vuku bulmak</item>
+        <item>teklif etmek</item>
+        <item>açmak</item>
+        <item>emir vermek</item>
+        <item>sahip olmak</item>
+        <item>pas geçmek,ihmal etmek</item>
+        <item>ödemek</item>
+        <item>sahnelemek</item>
+        <item>seçmek</item>
+        <item>yerleştirmek</item>
+        <item>plan yapmak</item>
+        <item>oynamak</item>
+        <item>koymak,yerleştirmek</item>
+        <item>bırakmak,vazgeçmek</item>
+        <item>erişmek,ulaşmak</item>
+        <item>okumak</item>
+        <item>farkına varmak,fark etmek</item>
+        <item>almak, teslim almak</item>
+        <item>tanımak</item>
+        <item>kaydetmek</item>
+        <item>miktarını azaltmak,düşürmek</item>
+        <item>yansıtmak</item>
+        <item>reddetmek,geri çevirmek</item>
+        <item>saymak</item>
+        <item>serbest bırakmak</item>
+        <item>arta kalmak</item>
+        <item>hatırlamak</item>
+        <item>kaldırmak, sökmek,gidermek</item>
+        <item>tekrarlamak</item>
+        <item>yer değiştirmek</item>
+        <item>cevap vermek</item>
+        <item>	ihbar etme,bildirmek</item>
+        <item>temsil etmek</item>
+        <item>gerekmek,ihtiyacı olmak</item>
+        <item>	dinlenmek,geri çekilmek</item>
+        <item>geri dönmek</item>
+        <item>ortaya çıkarmak</item>
+        <item>(telefon ya da zil)çalmak</item>
+        <item>doğmak,yükselmek</item>
+        <item>yuvarlamak</item>
+        <item>koşmak,işletmek</item>
+        <item>söylemek</item>
+        <item>görmek</item>
+        <item>görünmek</item>
+        <item>satmak</item>
+        <item>göndermek</item>
+        <item>ayarlamak,kurmak</item>
+        <item>razı olmak,yerleşmek</item>
+        <item>sallamak</item>
+        <item>sallamak</item>
+        <item>nallamak</item>
+        <item>vurmak,film çekmek</item>
+        <item>göstermek</item>
+        <item>küçülmek</item>
+        <item>kapatmak</item>
+        <item>şarkı söylemek</item>
+        <item>batmak</item>
+        <item>oturmak</item>
+        <item>kayak yapmak</item>
+        <item>tokatlamak</item>
+        <item>katletmek</item>
+        <item>doğramak</item>
+        <item>kaymak</item>
+        <item>kaydırmak,kayarak gitmek</item>
+        <item>uyumak</item>
+        <item>konuşmak</item>
+        <item>harcamak</item>
+        <item>tükürmek</item>
+        <item>yaymak</item>
+        <item>ayakta durmak</item>
+        <item>başlamak</item>
+        <item>çalmak,yürütmek</item>
+        <item>yapışmak</item>
+        <item>batmak,canını yakmak</item>
+        <item>kokuşmak</item>
+        <item>küfretmek,yemin etmek</item>
+        <item>süpürmek</item>
+        <item>yüzmek</item>
+        <item>sallanmak</item>
+        <item>almak</item>
+        <item>konuşmak</item>
+        <item>öğretmek</item>
+        <item>yırtmak</item>
+        <item>söylemek</item>
+        <item>düşünmek</item>
+        <item>fırlatmak</item>
+        <item>dokunmak</item>
+        <item>eğitmek</item>
+        <item>yolculuk yapmak,seyahat etmek</item>
+        <item>tedavi etmek,davranmak</item>
+        <item>denemek</item>
+        <item>dönmek</item>
+        <item>anlamak</item>
+        <item>kullanmak</item>
+        <item>ziyaret etmek</item>
+        <item>oy vermek</item>
+        <item>beklemek</item>
+        <item>yürümek</item>
+        <item>uyanmak</item>
+        <item>istemek</item>
+        <item>uyarmak</item>
+        <item>giymek</item>
+        <item>kazanmak</item>
+        <item>dilemek</item>
+        <item>çalışmak</item>
+        <item>endişelenmek,merak etmek</item>
+        <item>yazmak</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+</resources>
